@@ -6,7 +6,6 @@ from aiohttp import web
 from multidict import MultiDict
 
 
-# TODO: Поправить эксепшины в курле, разобраться с эуеит
 
 class FilesApi:
 
